@@ -1,0 +1,17 @@
+header{
+    background-color: azure;
+    width: 90%;
+    position: fixed;
+    z-index: 999;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 10px;
+}
+.logo{
+    text-decoration: none;
+    color: aqua;
+    text-transform: uppercase;
+    font-weight: 700;
+    font-size: 1.8em;
+}
